@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  servername: MyString
+  serversize: MyString
+  server_region: MyString
+  ind_resource: MyString
+  ind_hour: 1.5
+  org_res: MyString
+  org_hour: 1.5
+  group_res: MyString
+  group_hour: 1
+
+two:
+  servername: MyString
+  serversize: MyString
+  server_region: MyString
+  ind_resource: MyString
+  ind_hour: 1.5
+  org_res: MyString
+  org_hour: 1.5
+  group_res: MyString
+  group_hour: 1

@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ownerid: 1
+  masterid: 1
+  start_time: 2012-05-14 22:38:43
+  end_time: 2012-05-14 22:38:43
+  status: MyString
+  recentbill: 1.5
+  recent_exe_date: 2012-05-14
+  totalbill: 1.5
+
+two:
+  ownerid: 1
+  masterid: 1
+  start_time: 2012-05-14 22:38:43
+  end_time: 2012-05-14 22:38:43
+  status: MyString
+  recentbill: 1.5
+  recent_exe_date: 2012-05-14
+  totalbill: 1.5
